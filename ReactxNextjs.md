@@ -1,13 +1,14 @@
 React.js and Next.js are both popular JavaScript frameworks used for building web applications, but they serve slightly different purposes and have different features:
 
 1. **React.js**:
+2. 
    - React.js is a JavaScript library for building user interfaces, developed by Facebook.
    - It provides a component-based architecture where UIs are composed of reusable components.
    - React.js is great for building single-page applications (SPAs) and dynamic user interfaces.
    - It's flexible and allows developers to manage state efficiently using tools like Redux or Context API.
    - React.js doesn't provide server-side rendering out of the box.
 
-2. **Next.js**:
+3. **Next.js**:
    - Next.js is a framework built on top of React.js, developed by Vercel (formerly ZEIT).
    - It provides server-side rendering (SSR) and static site generation (SSG) capabilities, allowing for better SEO and performance optimization.
    - Next.js simplifies the setup for server-side rendering and routing, making it easier to build production-ready React applications.
